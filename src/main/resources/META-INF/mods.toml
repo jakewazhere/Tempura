@@ -1,0 +1,14 @@
+
+
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT License"
+[[mods]]
+modId="tempura"
+version="${file.jarVersion"
+displayName="Tempura"
+logoFile="logo.png"
+authors="Jake Afton"
+description='''
+Based on Tough as Nails, and some mod that is probably long forgotten, this mod aims to add tempurature and thrist mechanics.
+'''
