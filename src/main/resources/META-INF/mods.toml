@@ -5,7 +5,7 @@ loaderVersion="[36,)"
 license="MIT License"
 [[mods]]
 modId="tempura"
-version="${file.jarVersion"
+version="${file.jarVersion}"
 displayName="Tempura"
 logoFile="logo.png"
 authors="Jake Afton"
